@@ -1,4 +1,4 @@
-# Lab10
+# ServerClient(java)
 compulosry
 
 I solved the compulsory part. 
