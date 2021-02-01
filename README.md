@@ -1,5 +1,5 @@
 # ServerClient(java)
-compulosry
+
 
 I solved the compulsory part. 
 There are 2 projects, one for the client and one for the server . 
